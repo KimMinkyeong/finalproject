@@ -1,6 +1,4 @@
-# finalproject
-
-My Secrete Calendar
+# finalproject : My Secrete Calendar
 
 # What does this project do?
 
